@@ -15,8 +15,8 @@ Instrucciones básicas para abrir y ejecutar el proyecto localmente.
    ```bash
    git clone [https://github.com/MarjorieValdivieso/proyecto01.git](https://github.com/MarjorieValdivieso/proyecto01.git)
 
+<img width="597" height="546" alt="image" src="https://github.com/user-attachments/assets/057815f0-88c2-4a4f-8ad9-d7279e19924b" />
 
-<img width="352" height="668" alt="WhatsApp Image 2026-10-12 at 21 03 53" src="https://github.com/user-attachments/assets/34cd2284-af33-43ab-8882-002127cef2eb" />
 
 ## Descripción de las APIs
 
